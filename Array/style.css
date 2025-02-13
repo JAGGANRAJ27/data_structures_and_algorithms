@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #333333;
+    color: #fff;
+    font-family: monospace;
+}
+.console-text{
+    color: #f1c40f;
+    background: #ffffff4f;
+}
+.main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
